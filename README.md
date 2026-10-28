@@ -1,4 +1,4 @@
-# Portfólio Pessoal — João Marcos Ferreira
+# Primeiro Portfólio Pessoal — João Marcos Ferreira
 
 Portfólio pessoal desenvolvido para apresentar minha trajetória profissional, meus conhecimentos em desenvolvimento de software e meus projetos práticos.
 
@@ -6,7 +6,7 @@ O projeto faz parte da minha transição de carreira para a área de tecnologia 
 
 ## 🌐 Acesse o projeto
 
-**[Visualizar portfólio](https://portifolio-omega-three-97.vercel.app/)**
+**[Visualizar portfólio](https://portfolio-tau-peach-o5smm9umei.vercel.app/about.html/)**
 
 ## ✨ Funcionalidades
 
@@ -60,7 +60,7 @@ O projeto está publicado na Vercel.
 
 **João Marcos Ferreira**
 
-- [Portfólio](https://portifolio-omega-three-97.vercel.app/)
+- [Portfólio](https://portfolio-tau-peach-o5smm9umei.vercel.app/about.html/)
 
 ---
 
