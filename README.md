@@ -6,7 +6,7 @@ O projeto faz parte da minha transição de carreira para a área de tecnologia 
 
 ## 🌐 Acesse o projeto
 
-**[Visualizar portfólio](portfolio-tau-peach-o5smm9umei.vercel.app)**
+**[Visualizar portfólio](https://portfolio-mmbg0w82k-joao-marcos-ferreiras-projects.vercel.app)**
 
 ## ✨ Funcionalidades
 
@@ -60,7 +60,7 @@ O projeto está publicado na Vercel.
 
 **João Marcos Ferreira**
 
-- [Portfólio](portfolio-tau-peach-o5smm9umei.vercel.app)
+- [Portfólio](https://portfolio-mmbg0w82k-joao-marcos-ferreiras-projects.vercel.app)
 
 ---
 
